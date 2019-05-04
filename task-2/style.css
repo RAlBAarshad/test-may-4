@@ -1,0 +1,21 @@
+.images-1{
+    display: flex;
+    flex-flow: row;
+}
+
+.images-2{
+    display: flex;
+    flex-flow: row;
+}
+
+.body{
+    background-color: gray;
+}
+
+
+h1{
+    padding: 30px;
+    margin: 20px;
+    text-align: center;
+    font-size: 40px;
+}
